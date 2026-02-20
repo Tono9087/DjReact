@@ -14,4 +14,4 @@ En caso de que GitHub presente algún problema para visualizar los archivos, el 
 
 Próximamente se añadirá un enlace adicional con el repositorio que contendrá todos los archivos completos del proyecto:
 
-🔗 (Enlace pendiente de actualización)
+🔗 https://github.com/Tono9087/spootono
